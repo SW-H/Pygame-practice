@@ -1,6 +1,5 @@
 import pygame
-
-pygame.init()  # 초기화
+pygame.init()  #초기화
 
 # 화면크기설정
 screen_width = 480
