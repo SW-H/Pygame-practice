@@ -5,5 +5,5 @@
 ## 4_keyboard_event
 ## 5_frame_per_second(FPS)
 ## 6_collision
-## 7_text
+## [7_text](#7_text.py)
 ## [8_frame](https://github.com/SW-H/Pygame-practice/blob/master/8_frame.py)
