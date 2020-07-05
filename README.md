@@ -6,4 +6,4 @@
 ## 5_frame_per_second(FPS)
 ## 6_collision
 ## 7_text
-## [8_frame].8_frame.py
+## /[8_frame].8_frame.py
